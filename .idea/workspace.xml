@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc43ac19-57a5-4bbc-8cdc-59b80caf0cc8" name="Changes" comment="blog first init" />
+    <list default="true" id="cc43ac19-57a5-4bbc-8cdc-59b80caf0cc8" name="Changes" comment="git pull origin main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741310588127</updated>
       <workItem from="1741310589209" duration="2212000" />
-      <workItem from="1741427626957" duration="1671000" />
+      <workItem from="1741427626957" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="blog first init">
       <option name="closed" value="true" />
@@ -74,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741440092175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="blog first init">
+      <option name="closed" value="true" />
+      <created>1741440346310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741440346310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git pull origin main">
+      <option name="closed" value="true" />
+      <created>1741440555950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741440555950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="blog first init" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog first init" />
+    <MESSAGE value="git pull origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git pull origin main" />
   </component>
 </project>
